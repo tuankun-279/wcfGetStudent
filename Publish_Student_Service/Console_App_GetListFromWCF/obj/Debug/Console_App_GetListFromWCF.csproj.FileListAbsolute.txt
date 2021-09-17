@@ -1,0 +1,5 @@
+D:\Publish_Student_Service\Console_App_GetListFromWCF\bin\Debug\Console_App_GetListFromWCF.exe.config
+D:\Publish_Student_Service\Console_App_GetListFromWCF\bin\Debug\Console_App_GetListFromWCF.exe
+D:\Publish_Student_Service\Console_App_GetListFromWCF\bin\Debug\Console_App_GetListFromWCF.pdb
+D:\Publish_Student_Service\Console_App_GetListFromWCF\obj\Debug\Console_App_GetListFromWCF.exe
+D:\Publish_Student_Service\Console_App_GetListFromWCF\obj\Debug\Console_App_GetListFromWCF.pdb
